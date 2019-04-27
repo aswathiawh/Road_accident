@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">accident</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_updateprofile">Updateprofile</string>
+    <string name="title_activity_addnoification">Addnoification</string>
+    <string name="title_activity_viewnotifications">Viewnotifications</string>
+    <string name="title_activity_caseregister">Caseregister</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_rule">Rule</string>
+    <string name="title_activity_criminal">Criminal</string>
+    <string name="title_activity_vehicle">Vehicle</string>
+    <string name="title_activity_officerhome">Officerhome</string>
+
+</resources>
